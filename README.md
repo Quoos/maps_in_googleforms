@@ -1,5 +1,5 @@
 <p>At&eacute; o presente momento o Formul&aacute;rio do Google Docs (Google Forms) n&atilde;o permite coletar coordenadas geogr&aacute;ficas de latitude e longitude. Por essa raz&atilde;o, preparei esse c&oacute;digo HTML utilizando bibliotecas javascript para criar um mapa interativo, onde os usu&aacute;rios podem fornecer a localiza&ccedil;&atilde;o para um formul&aacute;rio do Google Forms. Embora na programa&ccedil;&atilde;o existam estrat&eacute;gias mais eficientes para coletas de coordenadas, esse c&oacute;digo pretende ser &uacute;til para quem n&atilde;o tem dom&iacute;nio de programa&ccedil;&atilde;o mas&nbsp;possui interesse em fazer um formul&aacute;rio no Google Forms, adicionando&nbsp;um passo anterior ao preenchimento do formul&aacute;rio no Google Forms. No entanto &eacute; ncess&aacute;rio saber hospedar um c&oacute;digo HTML em um servidor com HTTPS.</p>
-
+<p>(<a href="https://docente.ifsc.edu.br/joao.quoos/labMAGe/html/formulariolatlong.html" target="_blank">LINK DEMO</a>)</p>
 <hr />
 <p><a href="#apresentacao"><strong>1) Apresenta&ccedil;&atilde;o dos recursos</strong></a></p>
 
